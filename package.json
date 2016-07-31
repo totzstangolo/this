@@ -1,0 +1,15 @@
+{
+  "name": "demo",
+  "version": "0.0.0",
+  "description": "simple demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "totz",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mocha": "~2.5.3",
+    "express": "~4.14.0"
+  }
+}
